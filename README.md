@@ -52,8 +52,8 @@ Este projeto foi desenvolvido exclusivamente para fins acadêmicos, como ativida
 <p align="center">
   <img src="images/tela-inicial.jpeg" width="220">
   <img src="images/tela-sons-1.jpeg" width="220">
-  <img src="images/tela-reproducao.jpeg" width="220">
   <img src="images/tela-sons-2.jpeg" width="220">
+  <img src="images/tela-reproducao.jpeg" width="220">
 </p>
 
 ## 👨‍💻 Autor
