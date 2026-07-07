@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lumia</string>
+    <string name="welcome_title">Lumia</string>
+    <string name="welcome_tagline">Sons para dormir.\nRelaxe, desacelere e tenha noites de sono profundas.</string>
+    <string name="btn_start">Iniciar</string>
+    <string name="sons_header">Sons</string>
+    <string name="sound_chuva_suave">Chuva suave</string>
+    <string name="sound_ondas_do_mar">Ondas do mar</string>
+    <string name="sound_lareira">Lareira</string>
+    <string name="sound_chuva_forte">Chuva forte</string>
+    <string name="sound_ventilador">Som de ventilador</string>
+    <string name="sound_ruido_branco">Ruído branco</string>
+    <string name="sound_secador">Som de secador distante</string>
+    <string name="sound_floresta">Floresta noturna</string>
+    <string name="sons_nav_item">Sons</string>
+    <string name="status_tocando">Tocando</string>
+</resources>
